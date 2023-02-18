@@ -1,0 +1,8 @@
+D:\!c_sharp\Solution5\Task9\bin\Debug\Task9.exe.config
+D:\!c_sharp\Solution5\Task9\bin\Debug\Task9.exe
+D:\!c_sharp\Solution5\Task9\bin\Debug\Task9.pdb
+D:\!c_sharp\Solution5\Task9\obj\Debug\Task9.csproj.AssemblyReference.cache
+D:\!c_sharp\Solution5\Task9\obj\Debug\Task9.csproj.SuggestedBindingRedirects.cache
+D:\!c_sharp\Solution5\Task9\obj\Debug\Task9.csproj.CoreCompileInputs.cache
+D:\!c_sharp\Solution5\Task9\obj\Debug\Task9.exe
+D:\!c_sharp\Solution5\Task9\obj\Debug\Task9.pdb

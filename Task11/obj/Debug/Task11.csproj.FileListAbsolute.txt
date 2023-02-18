@@ -1,0 +1,8 @@
+D:\!c_sharp\Solution5\Task11\bin\Debug\Task11.exe.config
+D:\!c_sharp\Solution5\Task11\bin\Debug\Task11.exe
+D:\!c_sharp\Solution5\Task11\bin\Debug\Task11.pdb
+D:\!c_sharp\Solution5\Task11\obj\Debug\Task11.csproj.AssemblyReference.cache
+D:\!c_sharp\Solution5\Task11\obj\Debug\Task11.csproj.SuggestedBindingRedirects.cache
+D:\!c_sharp\Solution5\Task11\obj\Debug\Task11.csproj.CoreCompileInputs.cache
+D:\!c_sharp\Solution5\Task11\obj\Debug\Task11.exe
+D:\!c_sharp\Solution5\Task11\obj\Debug\Task11.pdb
